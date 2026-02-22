@@ -1,0 +1,75 @@
+body{
+    background-color: beige;
+    border: 3px solid green;
+    margin-left: 5px;
+}
+table{
+    border-collapse: collapse;
+    background-image: url(Ok.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+#blue{
+    background-color: aqua;
+}
+.time{
+color: blue;
+font-size: 15px;
+padding: 3px;
+}
+.download{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 35px;
+    
+}
+th{
+    color: white;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    
+    
+}
+td{
+    font-size: 15px;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin: 20px;
+
+    
+
+}
+h1:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: rgb(250, 4, 45);
+    font-weight: bold;
+    
+
+}
+a:hover{
+    background-color: rgb(113, 7, 252);
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
